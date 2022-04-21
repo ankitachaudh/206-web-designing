@@ -1,0 +1,8 @@
+<HTML>
+    <head>
+    <style>
+    body{background-image:url("img.jpg"); background-size:cover}
+    </style>
+    <BODY>
+    </BODY>
+    </HTML>

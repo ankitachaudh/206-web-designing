@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+  p{
+    font-style:bold;
+   color:red;
+}
+</style>
+</head>
+
+<p>
+  RCP IMRD shirpur
+</p>
+
+<body>
